@@ -8,3 +8,5 @@ Once the message
 ................. Services are up .................
 
 Appears, connect into the consumer machine with the command docker exec -it consumer /bin/bash. And then execute /opt/consumer/launch_consumer.sh to be able to see on the console the output.
+
+For more details about the Dockerfile on the consumer and producer you can look at https://github.com/danspaes/scala-slim/blob/master/Dockerfile and https://github.com/danspaes/spark-slim/blob/master/Dockerfile
