@@ -20,6 +20,5 @@ To start to consume service execute the script below, the output will be printed
 
 #### For more details about the Dockerfile on the consumer and producer you can look at: 
 
-> [Scala Container](https://github.com/danspaes/scala-slim/blob/master/Dockerfile)
-
-> [Spark Container](https://github.com/danspaes/spark-slim/blob/master/Dockerfile)
+- [Scala Container](https://github.com/danspaes/scala-slim/blob/master/Dockerfile)
+- [Spark Container](https://github.com/danspaes/spark-slim/blob/master/Dockerfile)
